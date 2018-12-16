@@ -5,8 +5,6 @@ var mdAutenticacion = require('../middlewares/autenticacion');
 
 var app = express();
 
-
-
 // Importar modelo correspondiente
 var Usuario = require('../models/usuario');
 
